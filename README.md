@@ -4,15 +4,15 @@ Data's true power is its ability to definitively answer questions. So, let's tak
 ## Model 6 Challenge is comprised of 2 parts
 
 ## Part 1: WeatherPY 
-* Reference Jupyter Notebook [WeatherPy.ipynb](insertlink)for full code and text narrative.
+* Reference Jupyter Notebook [WeatherPy.ipynb](https://github.com/Kre8iveEnvy/python-api-challenge/blob/main/WeatherPy/WeatherPy.ipynb))for full code and text narrative.
 * Using [OpenWeatherMap API](https://openweathermap.org/api) and [citipy Python library](https://pypi.org/project/citipy/) to create a representative model of weather across cities.
 * For this part, you'll use the WeatherPy.ipynb Jupyter notebook provided in the starter code ZIP file. The starter code will guide you through the process of using your Python coding skills to develop a solution to address the required functionalities.
-* Requirement 1: Create Plots to Showcase the Relationship Between Weather Variables and Latitude
+### Requirement 1: Create Plots to Showcase the Relationship Between Weather Variables and Latitude
 - Latitude vs. Temperature
 - Latitude vs. Humidity
 - Latitude vs. Cloudiness
 - Latitude vs. Wind Speed
-* Requirement 2: Compute Linear Regression for Each Relationship
+### Requirement 2: Compute Linear Regression for Each Relationship
 - Northern Hemisphere: Temperature vs. Latitude
 - Southern Hemisphere: Temperature vs. Latitude
 - Northern Hemisphere: Humidity vs. Latitude
@@ -24,7 +24,7 @@ Data's true power is its ability to definitively answer questions. So, let's tak
 
 
 ## Part 2: VacationPY 
-* Reference Jupyter Notebook [VacationPy.ipynb](insertlink)for full code and text narrative.
+* Reference Jupyter Notebook [VacationPy.ipynb](https://github.com/Kre8iveEnvy/python-api-challenge/blob/main/WeatherPy/VacationPy.ipynb)for full code and text narrative.
 * In this deliverable, you'll use your weather data skills to plan future vacations. Also, you'll use Jupyter notebooks, the geoViews Python library, and the Geoapify API.
 * Create a map that displays a point for every city in the city_data_df DataFrame as shown in the following image. The size of the point should be the humidity in each city.
 * Narrow down the city_data_df DataFrame to find your ideal weather condition.
